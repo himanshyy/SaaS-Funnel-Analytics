@@ -105,7 +105,7 @@ SaaS-Funnel-Analytics/
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](data/dashboard.png)
 
 ---
 
