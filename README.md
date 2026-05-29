@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-This project analyzes user behavior across a SaaS conversion funnel using Python, SQL, and Power BI. The objective is to identify funnel drop-offs, revenue-driving channels, user segmentation patterns, regional performance, and campaign effectiveness.
+This project analyzes user behavior across a SaaS conversion funnel using Python, SQL, and Power BI. The objective is to identify funnel drop-offs, high-performing marketing channels, user segmentation patterns, regional performance, and campaign effectiveness.
 
-The project combines exploratory data analysis, SQL-based business analysis, DAX measures, and an interactive Power BI dashboard to generate actionable business insights.
+The project combines exploratory data analysis, SQL-based business analysis, DAX measures, and an interactive Power BI dashboard to generate actionable business insights and support data-driven decision-making.
 
 ---
 
 ## Business Problem
 
-The company wants to understand:
+The analysis focuses on solving the following business problems:
 
 * Where users drop off in the conversion funnel
 * Which marketing channels generate the highest revenue
@@ -29,6 +29,19 @@ The company wants to understand:
 * Power BI
 * DAX
 * GitHub
+
+---
+
+## Skills Demonstrated
+
+* Exploratory Data Analysis (EDA)
+* Funnel Analysis
+* SQL Querying
+* KPI Development
+* DAX Calculations
+* Business Intelligence Reporting
+* Dashboard Design
+* Business Insight Generation
 
 ---
 
@@ -70,21 +83,33 @@ The company wants to understand:
 
 ## Key Insights
 
-* Significant user drop-off occurs between Browse and Add to Cart stages.
+* Significant user drop-off occurs between Browse and Add-to-Cart stages.
 * Desktop users contribute the highest revenue share.
 * High-performing acquisition channels generate stronger monetization.
 * Bonus campaign users demonstrate improved revenue contribution.
 * Revenue is concentrated among a smaller segment of high-value users.
+* Regional performance differences highlight revenue concentration opportunities.
 
 ---
 
 ## Business Recommendations
 
-* Optimize the Add to Cart experience to reduce funnel drop-offs.
+* Optimize the Add-to-Cart experience to reduce funnel drop-offs.
 * Improve mobile checkout experience to increase mobile conversions.
 * Increase investment in high-performing marketing channels.
 * Continue targeted campaigns for high-value users.
 * Improve retention strategies for premium customer segments.
+
+---
+
+## Project Workflow
+
+1. Data Cleaning using Python & Pandas
+2. Exploratory Data Analysis (EDA)
+3. SQL-based Business Query Analysis
+4. Data Modeling in Power BI
+5. KPI & Funnel Dashboard Creation
+6. Business Insights Extraction
 
 ---
 
